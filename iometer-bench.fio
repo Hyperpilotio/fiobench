@@ -17,3 +17,4 @@ ioengine=libaio
 # iodepth=8	Light
 # iodepth=64	Moderate
 # iodepth=256	Heavy
+#iodepth=1

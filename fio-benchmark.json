@@ -8,11 +8,11 @@
 	"arg": "--runtime"
     },
     "ioConfig": {
-	"maxIo": 256,
+	"maxIO": 256,
 	"arg": "--iodepth"
     },
     "command": {
-	"path": "",
+	"path": "fio",
 	"args": ["job.fio", "--size", "1g"]
     },
     "count": 1
